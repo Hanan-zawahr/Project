@@ -1,0 +1,17 @@
+import java.util.Date;
+public class Automobile
+{
+    public Engine Engine;
+    public String ManufactureCompany;
+    public Date ManufactureDate;
+    public String Model;
+    public int plate_num;
+    public int body_serail_num;
+    public Automobile()
+    {
+        ManufactureCompany=null;
+        ManufactureDate=null;
+        Model=null;
+        plate_num=0;
+        body_serail_num=0;
+    }
