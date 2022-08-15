@@ -1,0 +1,9 @@
+public class Motorcycle extends Automobile
+{
+    public double tierdiameter;
+    public double length;
+    public Motorcycle()
+    {
+        tierdiameter=0;
+        length=0;
+    }
