@@ -1,0 +1,9 @@
+public class Truck extends Vehicle
+{
+    public double FreeWight;
+    public double FullWigth;
+    public Truck()
+    {
+        FreeWight=0;
+        FullWigth=0;
+    }
