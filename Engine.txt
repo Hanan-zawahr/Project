@@ -1,0 +1,16 @@
+import java.util.Date;
+public class Engine extends Automobile
+{
+    public String Manufacture;
+    public Date ManufactureDate;
+    public String Model;
+    public int Capacity;
+    public int Cylinders;
+    public Engine()
+    { 
+        Manufacture=null;
+        ManufactureDate=null;
+        Model=null;
+        Capacity=0;
+        Cylinders=0;
+    }
