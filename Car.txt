@@ -1,0 +1,9 @@
+public class Car extends Vehicle
+{
+    public int chair_num;
+    public boolean is_furnitre_leather;
+    public Car()
+    {
+        chair_num=0;
+        is_furnitre_leather=false;
+    }
